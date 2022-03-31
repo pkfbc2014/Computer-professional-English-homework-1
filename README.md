@@ -14,7 +14,7 @@ https://github.com/pkfbc2014/Computer-professional-English-homework-1/blob/main/
 
 
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://img2.baidu.com/it/u=3767887066,3557838529&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=313)
 
 
 
