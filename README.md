@@ -18,7 +18,7 @@ https://github.com/pkfbc2014/Computer-professional-English-homework-1/blob/main/
 
 
 
-![GI](C:\Users\14768\Desktop\Computer-professional-English-homework-1\GI.png)
+<img src='GI.png'>
 
 
 
