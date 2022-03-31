@@ -14,11 +14,13 @@ https://github.com/pkfbc2014/Computer-professional-English-homework-1/blob/main/
 
 
 
+![avatar](http://baidu.com/pic/doge.png)
+
+
+
 ![GI](C:\Users\14768\Desktop\Computer-professional-English-homework-1\GI.png)
 
 
-
-- ![avatar]([http://baidu.com/pic/doge.png](https://links.jianshu.com/go?to=http%3A%2F%2Fbaidu.com%2Fpic%2Fdoge.png))
 
 
 
@@ -55,6 +57,8 @@ int main()
 | 7    | 8    | 9    |
 | 10   | 11   | 12   |
 
+
+
 **申告白辰，镇魂之由，允我作祝，引灯归途，畏畏神威，诚惶诚恐**
 
 
@@ -67,5 +71,5 @@ int main()
 
 
 
-<u>申告白辰，镇魂之由，允我作祝，引灯归途，畏畏神威，诚惶诚恐</u>
+------
 
